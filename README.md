@@ -7,7 +7,7 @@
   <a href="https://tenor.com/view/twilight-sparkle-pixel-art-gif-5624353358772370502"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0466A&center=true&random=false&width=435&lines=%E0%AD%A7%E2%8B%86%EF%BD%A1+hi+there!+welcome+to+my+space.+%CB%9A%E0%AD%A8;this+is+Jam.+%E2%98%81%EF%B8%8F;an+aspiring+web+designer.+%E2%9C%A7%CB%96" alt="Typing SVG" /></a>
 </h1>
 
-<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/8e/3d/b9/8e3db98c9f6569e71a1a4f998988d92d.gif">
+<img align="right" alt="Coding" width="280" src="https://tenor.com/view/twilight-sparkle-pixel-art-gif-5624353358772370502">
 
 ## 🗒️ Wanna know more about me?
 &nbsp; &nbsp; ✧  &nbsp; 🔭 I focus more on the visual & aesthetic aspects of digital design.
@@ -18,7 +18,7 @@
  
 &nbsp; &nbsp; ✧  &nbsp; 📫 How to reach me **markielleones@gmail.com**
  
-&nbsp; &nbsp; ✧ &nbsp; 👀 Know about my experiences from **[Jam's Resume](https://github.com/Markiel25/Portfolio-AWD-FEUTECH)**
+&nbsp; &nbsp; ✧ &nbsp; 👀 Know about my experiences from **[Rei's Resume](https://github.com/Markiel25/Portfolio-AWD-FEUTECH)**
 
 <br>
 
