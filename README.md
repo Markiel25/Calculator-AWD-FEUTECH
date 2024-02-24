@@ -1,26 +1,74 @@
-<h1 align="center">Hi 👋, I'm Markiel Leones</h1>
-<h3 align="center">A passionate second year student, frontend developer from FEU TECH</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markiel25&label=Profile%20views&color=0e75b6&style=flat" alt="markiel25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markiel25" alt="markiel25" /></a> </p>
-
-- 💬 Ask me about **....**
-
-- 📫 How to reach me **markielleones@gmail.com**
-
-- ⚡ Fun fact **I'm a AC EXUDE DANCERS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/drei.kijue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drei.kijue" height="30" width="40" /></a>
+  <p align="center">
+  <a href="https://juliaansh.io">
+    <img width="1000" src="https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif" alt="MasterHead">
+  </a>
 </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0466A&center=true&random=false&width=435&lines=%E0%AD%A7%E2%8B%86%EF%BD%A1+hi+there!+welcome+to+my+space.+%CB%9A%E0%AD%A8;this+is+Jam.+%E2%98%81%EF%B8%8F;an+aspiring+web+designer.+%E2%9C%A7%CB%96" alt="Typing SVG" /></a>
+</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/8e/3d/b9/8e3db98c9f6569e71a1a4f998988d92d.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
+## 🗒️ Wanna know more about me?
+&nbsp; &nbsp; ✧  &nbsp; 🔭 I focus more on the visual & aesthetic aspects of digital design.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markiel25&show_icons=true&locale=en" alt="markiel25" /></p>
+&nbsp; &nbsp; ✧  &nbsp; 🌱 I’m currently learning **Python and Javascript**
+ 
+&nbsp; &nbsp; ✧  &nbsp; 🔍 All of my projects are available at **[All Projects for AWD](https://github.com/Markiel25?tab=repositories)**
+ 
+&nbsp; &nbsp; ✧  &nbsp; 📫 How to reach me **markielleones@gmail.com**
+ 
+&nbsp; &nbsp; ✧ &nbsp; 👀 Know about my experiences from **[Jam's Resume](https://github.com/Markiel25/Portfolio-AWD-FEUTECH)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markiel25&" alt="markiel25" /></p>
+<br>
+
+## 🛠️ Skill Set
+<div align="left">
+<a>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+<a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<br>
+
+## 🌐 Connect with me
+<div align="left">
+<a href="https://github.com/Markiel25" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/markiel.leones.18" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/drei.kijue/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+</div>
