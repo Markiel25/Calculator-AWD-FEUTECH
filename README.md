@@ -1,10 +1,10 @@
   <p align="center">
-  <a href="https://juliaansh.io">
-    <img width="1000" src="https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif" alt="MasterHead">
+  <a href="https://Markiel25.io">
+    <img width="1000" src="https://media1.tenor.com/m/WOoVLVRav3AAAAAC/mario-bros-bedroom.gif" alt="MasterHead">
   </a>
 </p>
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0466A&center=true&random=false&width=435&lines=%E0%AD%A7%E2%8B%86%EF%BD%A1+hi+there!+welcome+to+my+space.+%CB%9A%E0%AD%A8;this+is+Jam.+%E2%98%81%EF%B8%8F;an+aspiring+web+designer.+%E2%9C%A7%CB%96" alt="Typing SVG" /></a>
+  <a href="https://tenor.com/view/twilight-sparkle-pixel-art-gif-5624353358772370502"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0466A&center=true&random=false&width=435&lines=%E0%AD%A7%E2%8B%86%EF%BD%A1+hi+there!+welcome+to+my+space.+%CB%9A%E0%AD%A8;this+is+Jam.+%E2%98%81%EF%B8%8F;an+aspiring+web+designer.+%E2%9C%A7%CB%96" alt="Typing SVG" /></a>
 </h1>
 
 <img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/8e/3d/b9/8e3db98c9f6569e71a1a4f998988d92d.gif">
